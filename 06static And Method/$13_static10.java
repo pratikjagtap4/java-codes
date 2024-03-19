@@ -10,6 +10,6 @@ class $13_static10
 	{
 		System.out.println("hello");
 		return;
-		return;
+		// return; unreachable code 
 	}
 }

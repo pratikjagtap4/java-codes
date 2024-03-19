@@ -9,6 +9,6 @@ class $12_static9
 	{
 		System.out.println("hello");
 		return;
-		System.out.println("world");
+		// System.out.println("world"); unreachable code
 	}
 }
