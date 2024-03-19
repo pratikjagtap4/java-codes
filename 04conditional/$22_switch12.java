@@ -12,8 +12,8 @@ class $22_switch12
 			case 127 : System.out.println("case 127");
 						break;
 			
-			case 128 : System.out.println("case 128");
-						break;
+			// case 128 : System.out.println("case 128");
+			// 			break;
 		}
 	}
 
