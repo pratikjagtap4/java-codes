@@ -9,7 +9,7 @@ class $05_identifier1
 		System.out.println($);
 
 		int _ = 30;   // throws warning as not supported after java8
-		System.out.println(_);
+		// System.out.println(_);
 
 		//int 1 = 40 ;  error as name of identifier cant start with number    
 		//System.out.println(1);
