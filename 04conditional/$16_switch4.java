@@ -4,9 +4,9 @@ class $16_switch4
 	{
 		int a ;
 
-		switch(a)
+		// switch(a)
 		{
-		 System.out.println(String[] args);
+		//  System.out.println(String[] args); can not write statemnets within switch directly
 		 
 		}
 	}
