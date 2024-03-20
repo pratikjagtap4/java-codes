@@ -9,4 +9,4 @@ class $06_for6
 	}
 }
 
-//  statements can be used within condition of for , while or do while loop
+//  statements can be used within condition of for , while or do while loopcd ..
