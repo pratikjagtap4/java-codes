@@ -26,3 +26,4 @@ class example32
 		System.out.println( sample32.a + obj.b);
 	}
 }
+ 

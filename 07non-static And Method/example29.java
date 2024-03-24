@@ -18,4 +18,4 @@ class example29
 		System.out.println(example9.a);
 		System.out.println(b);
 	}
-}
+} 

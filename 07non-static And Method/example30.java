@@ -18,4 +18,4 @@ class example30
 		System.out.println(example30.a + x);
 		System.out.println( b + y);
 	}
-}
+} 
