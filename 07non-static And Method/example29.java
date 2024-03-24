@@ -1,4 +1,4 @@
-class example9
+class example29
 {
 	static int a = 100;
 	float b = 200.5f;
