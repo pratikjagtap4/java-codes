@@ -5,9 +5,9 @@ class example29
 
 	public static void main(String[] args)
 	{
-		System.out.println(example9.a);
+		System.out.println(example29.a);
 
-		example9 obj = new example9();
+		example29 obj = new example29();
 
 		System.out.println(obj.b);
 		obj.m1();
@@ -15,7 +15,7 @@ class example29
 
 	void m1()
 	{
-		System.out.println(example9.a);
+		System.out.println(example29.a);
 		System.out.println(b);
 	}
 } 
