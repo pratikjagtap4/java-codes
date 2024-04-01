@@ -1,17 +1,17 @@
-class Example3
+class Example03
 {
-	Example3()
+	Example03()
 	{
 		System.out.println("inside Constructor");
 	}
 
-	Example3()
+	Example03()
 	{
 	System.out.println("inside constructor");
 	}
 
 	public static void main(String[] args)
 	{
-		Example3 obj = new Example3();
+		Example03 obj = new Example03();
 	}
 }
