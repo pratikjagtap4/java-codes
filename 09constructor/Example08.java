@@ -1,7 +1,7 @@
-class Example8
+class Example08
 {
 	int a;
-	Example8()
+	Example08()
 	{
 		System.out.println(a);
 		a=10;
@@ -13,7 +13,7 @@ class Example8
 
 	public static void main(String[] args)
 	{
-		Example8 obj = new Example8();
+		Example08 obj = new Example08();
 		obj.m1();
 	}
 }
