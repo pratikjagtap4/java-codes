@@ -14,16 +14,16 @@ class sample2
 	}
 }
 
-class Example7
+class Example07
 {
-	Example7()
+	Example07()
 	{
 		System.out.println("inside Example7 constructor");
 	}
 
 	public static void main (String[] args)
 	{
-		Example7 obj1 = new Example7();
+		Example07 obj1 = new Example07();
 		sample s1 = new sample();
 		sample2 s2= new sample2();
 	}
