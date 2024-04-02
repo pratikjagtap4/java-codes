@@ -1,5 +1,7 @@
 class Example19
-{	
+{
+
+	
 	Example19(int a )
 	{
 		if(a>5)
