@@ -1,6 +1,9 @@
 class HDFC
 {
 	int accBal;
+	static{
+		System.out.println("Connecting to server");
+	}
 	{
 		System.out.println("Logics to connect and KYC verification");
 	}
