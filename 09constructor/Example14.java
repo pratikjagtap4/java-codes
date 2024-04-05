@@ -12,6 +12,6 @@ class Example14
 
 	public static void main(String[] args)
 	{
-		Example14 obj  = new Example14();
+		new Example14();
 	}
 }

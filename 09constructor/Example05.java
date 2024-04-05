@@ -7,7 +7,7 @@ class Example05
 
 	public static void main(String[] args)
 	{
-		Example05 obj = new Example05(10);
+		new Example05(100);
 		new Example05(10);
 	}
 }

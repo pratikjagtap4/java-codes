@@ -14,7 +14,7 @@ class Example06
 	void m1()
 	{
 		System.out.println("inside m1 " + a);
-		a =100;
+		a =200;
 	}
 	public static void main(String[] args)
 	{

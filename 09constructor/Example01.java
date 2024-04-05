@@ -6,6 +6,6 @@ class Example01
 	}
 	public static void main(String[] args)
 	{
-		Example01 obj = new Example01();
+		new Example01();
 	}
 }
