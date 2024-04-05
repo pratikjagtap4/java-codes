@@ -5,3 +5,5 @@ class Example03
 		System.out.println("static block");
 	}
 }
+
+// main is compulsory
