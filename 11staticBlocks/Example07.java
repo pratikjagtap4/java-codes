@@ -1,4 +1,4 @@
-class Example7
+class Example07
 {
 	static
 	{
@@ -12,7 +12,7 @@ class Example7
 	public static void main(String[] args)
 	{
 		System.out.println("start");
-		Example7 obj = new Example7();
-		Example7 obj2 = new Example7();
+		Example07 obj = new Example07();
+		Example07 obj2 = new Example07();
 	}
 }
