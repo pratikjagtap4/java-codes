@@ -52,5 +52,6 @@ class Example05
 	{
 		HDFC cust1 = new HDFC(5000);
 		cust1.getBal();
+		System.out.println("start");
 	}
 }
