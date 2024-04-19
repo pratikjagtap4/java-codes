@@ -1,6 +1,5 @@
 class Demo
 {
-	int a = 10;
 	Demo()
 	{
 		System.out.println("parent constructor");
@@ -19,7 +18,7 @@ class Example15
 	public static void main(String[] args)
 	{
 		Sample s = new Sample();
-		System.out.println(s.a);
+		
 	}
 
 }
