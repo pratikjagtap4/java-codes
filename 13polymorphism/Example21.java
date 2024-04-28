@@ -11,6 +11,7 @@ class Sample extends Demo
 	final void m1()
 	{
 		System.out.println("child final method");
+
 	}
 }
 
