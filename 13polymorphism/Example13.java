@@ -17,5 +17,7 @@ class Example13
 	{
 		Sample obj = new Sample();
 		obj.m1();
+
 	}
 }
+    
