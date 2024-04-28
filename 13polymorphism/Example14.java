@@ -10,7 +10,7 @@ class Sample extends Demo
 {
 	void m2()
 	{
-		System.out.println("child Method");
+		System.out.println("child method");
 	}
 }
 
