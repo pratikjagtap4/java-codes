@@ -1,16 +1,16 @@
 class Demo
 {
-	Demo m1()
+	final void m1()
 	{
-		return new Demo();
+		System.out.println("parent method");
 	}
 }
 
 class Sample extends Demo
 {
-	Sample m1()
+	void m1()
 	{
-		return new Sample();
+		System.out.println("child method");
 	}
 }
 
@@ -20,7 +20,6 @@ class Example20
 	{
 		Sample obj = new Sample();
 
-		Sample obj2 = obj.m1();
-		Demo obj3 = obj.m1();
+		obj.m1();
 	}
 }
