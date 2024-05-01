@@ -10,9 +10,9 @@ class Demo
 class Sample extends Demo
 {
 	float b=200.5f;
-	void m2()
+	void m1()
 	{
-		System.out.println("child method" + this.b);
+		System.out.println("child method" + this.b +" " + super.a);
 	}
 }
 
