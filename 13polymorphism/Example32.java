@@ -20,5 +20,5 @@ class Example32
 	{
 		Parent p = new Child();
 		p.m1();
-	}
+		}
 }
