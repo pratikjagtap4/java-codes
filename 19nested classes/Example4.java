@@ -1,7 +1,7 @@
 class Outer
 {
 	int a = 10;
-	Inner i;
+	Inner i = new Inner();
 
 	class Inner
 	{
@@ -17,10 +17,11 @@ class Outer
 class Example4
 {
 	public static void main(String[] args)
+	
 	{
 		Outer o = new Outer();
 
-		o.i=o.new Inner();
+		//o.i=o.new Inner();
 		o.i.m1();
 	}
 }
