@@ -1,4 +1,4 @@
-class Example4 // extends Object
+class Example04 // extends Object
 {
 	int a = 100;
 	public String toString()
@@ -8,7 +8,7 @@ class Example4 // extends Object
 
 	public static void main(String[] args)
 	{
-		Example4 obj = new Example4();
+		Example04 obj = new Example04();
 		System.out.println(obj.toString());
 	}
 }

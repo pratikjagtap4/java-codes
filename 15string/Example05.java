@@ -6,11 +6,11 @@ class Demo
 	}
 }
 
-class Example5
+class Example05
 {
 	public static void main(String[] args)
 	{
-		Example5 obj = new Example5();
+		Example05 obj = new Example05();
 		System.out.println(obj);
 
 		Demo obj2 = new Demo();
