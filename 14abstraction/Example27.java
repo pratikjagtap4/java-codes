@@ -9,6 +9,6 @@ class Example27 implements Demo
 	{
 		Example27 obj = new Example27();
 		System.out.println(obj.a);
-		a = 200;
+		// a = 200;
 	}
 }

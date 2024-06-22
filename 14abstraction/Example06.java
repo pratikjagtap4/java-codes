@@ -13,18 +13,18 @@ abstract class Demo
     }
 }
 
-public class Example6 extends Demo {
+public class Example06 extends Demo {
     void m1() {
         System.out.println("inside m1 overridden");
     }
     public static void main(String[] args)
     {
-        Example6 e = new Example6();
+        Example06 e = new Example06();
         e.m1();
         e.m2();
         e.m3();
 
-        Demo d =  new Example6();
+        Demo d =  new Example06();
         d.m1();
         d.m2();
         d.m3();

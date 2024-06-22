@@ -6,10 +6,10 @@ abstract class Demo
 	}
 }
 
-class Example9 extends Demo
+class Example09 extends Demo
 {
 	public static void main(String[] args)
 	{
-		new Example9();
+		new Example09();
 	}
 }

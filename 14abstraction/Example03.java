@@ -10,7 +10,7 @@ class HdfcServer extends MobileBanking{
     }
 }
 
-public class Example3 {
+public class Example03 {
     public static void main(String[] args)
     {
         HdfcServer cust = new HdfcServer();

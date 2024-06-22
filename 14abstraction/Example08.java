@@ -1,5 +1,5 @@
 
-abstract class Example8
+abstract class Example08
 {
 	public static void main(String[] args)
 	{
