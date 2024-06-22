@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+C:\fullstack\Core Java\14abstraction\.metadata\.plugins\org.eclipse.jdt.core
