@@ -6,7 +6,7 @@ class Outer
 		float b = 200.5f;
 	}
 }
-class Example2
+class Example02
 {
 	public static void main(String[] args)
 	{

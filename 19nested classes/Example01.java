@@ -5,7 +5,7 @@ class outer
 
 	}
 }
-class Example1
+class Example01
 {
 	public static void main(String[] args)
 	{

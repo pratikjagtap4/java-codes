@@ -21,7 +21,7 @@ class Outer
 	}
 }
 
-class Example6
+class Example06
 {
 	public static void main(String[] args)
 	{

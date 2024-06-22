@@ -14,7 +14,7 @@ class Outer
         private float y= 20.5f;
     }
 }
-public class  Example8
+public class  Example08
 {
     public static void main(String[] args)
     {
