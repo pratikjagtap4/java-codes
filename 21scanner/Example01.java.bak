@@ -11,12 +11,5 @@ class Example01
 		{
 			System.out.println(sc.next());
 		}
-
-		int  mark = 82;
-		switch(true)
-		{
-			case 90 > mark && mark >=80:
-				System.out.println("Good");
-		}
 	}
 }
